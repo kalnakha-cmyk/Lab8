@@ -45,6 +45,7 @@ if __name__ == "__main__":
 
         elif choice == "exit":
             console.print("[bold green]Goodbye![/bold green]")
+            console.print("[bold green]Goodbye![/bold green]")
             break
 
         else:
