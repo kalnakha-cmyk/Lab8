@@ -44,7 +44,7 @@ if __name__ == "__main__":
             print(right_path(random.choice(events)))
 
         elif choice == "exit":
-            console.print("[bold green]Thanks for playing! Goodbye![/bold green]")
+            console.print("[bold green]Goodbye![/bold green]")
             break
 
         else:
